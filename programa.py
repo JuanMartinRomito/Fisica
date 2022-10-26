@@ -33,3 +33,5 @@ for i in range(0,repeticion):
             lista.append(tie)
     variables()
 print("los resultados de los calculos fueron ",lista)
+
+## Comentario para modificar el archivo
