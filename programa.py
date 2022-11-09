@@ -7,7 +7,6 @@ graf1x=[]
 graf1y=[]
 graf2y=[]
 graf2x=[]
-#Cantidad de veces que se va a repetir el codigo (el usuario lo elije)
 for i in range(0,repeticion):
     def variables():
         #El usuario ingresa los valores con los que luego vamos a hacer las cuentas
